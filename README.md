@@ -16,7 +16,6 @@ sudo ./MoonLight_Forensic.py
 
 ![Ekran Resmi 2022-07-07 10 51 52](https://user-images.githubusercontent.com/64872731/177773241-b61f5709-c825-42d6-afde-dbcd24636e43.png)
 
-![Ekran Resmi 2022-07-07 10 52 08](https://user-images.githubusercontent.com/64872731/177773269-a39627bc-1df5-46f9-9167-6fbbf9fd514a.png)
 
 ![Ekran Resmi 2022-07-07 10 52 39](https://user-images.githubusercontent.com/64872731/177773283-6cb033c4-41cb-4195-85a5-4f4982cb1977.png)
 
